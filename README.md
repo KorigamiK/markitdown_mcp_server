@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/korigamik-markitdown-mcp-server-badge.png)](https://mseep.ai/app/korigamik-markitdown-mcp-server)
+
 # MarkItDown MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@KorigamiK/markitdown_mcp_server)](https://smithery.ai/server/@KorigamiK/markitdown_mcp_server)
