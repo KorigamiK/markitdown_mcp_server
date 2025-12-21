@@ -1,6 +1,7 @@
-from .server import run
-import os
 import asyncio
+import os
+
+from .server import run
 
 
 def main() -> None:

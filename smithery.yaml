@@ -9,4 +9,4 @@ startCommand:
   commandFunction:
     # A function that produces the CLI command to start the MCP on stdio.
     |-
-    () => ({command:'uv',args:['--directory', '/app', 'run', 'markitdown']})
+    () => ({command:'uv',args:['--directory', '/app', 'run', 'markitdown-mcp']})

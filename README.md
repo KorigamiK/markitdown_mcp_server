@@ -56,7 +56,7 @@ Add the following to your `settings.json`:
         "--directory",
         "/path/to/markitdown_mcp_server",
         "run",
-        "markitdown"
+        "markitdown-mcp"
       ]
     }
   }
