@@ -63,6 +63,28 @@ Add the following to your `settings.json`:
 }
 ```
 
+#### GitHub Copilot CLI
+
+Add the following to your `~/.copilot/mcp-config.json`:
+
+```json
+{
+  "mcpServers": {
+    "markitdown_mcp": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/path/to/markitdown_mcp_server",
+        "run",
+        "markitdown-mcp"
+      ]
+    }
+  }
+}
+```
+
+For more information, see the [GitHub Copilot CLI documentation](https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp/extend-copilot-chat-with-mcp).
+
 ### Commands
 
 The server responds to the following MCP commands:
